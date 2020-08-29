@@ -1,0 +1,8 @@
+{
+  "name": "rocketSeat-Beginner-ES6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TiagoBauer/rocketSeat-Beginner-ES6",
+  "author": "TiagoBauer <tiagopbauer@gmail.com>",
+  "license": "MIT"
+}
