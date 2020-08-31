@@ -2,7 +2,7 @@ Arguments:
   C:\Program Files\nodejs\node.exe C:\Users\tiago\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
 
 PATH: 
-  C:\Users\tiago\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\tiago\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Users\tiago\AppData\Local\Microsoft\WindowsApps;C:\Users\tiago\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\tiago\AppData\Local\GitHubDesktop\bin;C:\Users\tiago\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+  C:\Users\tiago\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\tiago\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Users\tiago\AppData\Local\Microsoft\WindowsApps;C:\Users\tiago\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\tiago\AppData\Local\GitHubDesktop\bin;C:\Users\tiago\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
 
 Yarn version: 
   1.22.4
@@ -23,7 +23,14 @@ Trace:
       at processTicksAndRejections (internal/process/task_queues.js:97:5)
 
 npm manifest: 
-  No manifest
+  {
+    "name": "rocketSeat-Beginner-ES6",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/TiagoBauer/rocketSeat-Beginner-ES6",
+    "author": "TiagoBauer <tiagopbauer@gmail.com>",
+    "license": "MIT"
+  }
 
 yarn manifest: 
   No manifest
